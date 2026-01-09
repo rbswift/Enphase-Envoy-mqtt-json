@@ -7,9 +7,9 @@
   "ENVOY_USER": "secret",
   "ENVOY_PASSWORD": "secret",
   "ENVOY_USER_PASS": "secret",
-  "ENVOY_USE_HTTPS": "False",
-  "USE_FREEDS": "False",
+  "ENVOY_USE_HTTPS": true,
+  "USE_FREEDS": false,
   "MQTT_TOPIC": "/envoy/json",
-  "DEBUG": "False",
-  "BATTERY_INSTALLED": "False"
+  "DEBUG": false,
+  "BATTERY_INSTALLED": false
   }
