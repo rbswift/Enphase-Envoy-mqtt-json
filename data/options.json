@@ -9,7 +9,7 @@
   "ENVOY_USER_PASS": "secret",
   "ENVOY_USE_HTTPS": true,
   "USE_FREEDS": false,
-  "MQTT_TOPIC": "/envoy/json",
+  "MQTT_TOPIC": "envoy/json",
   "DEBUG": false,
   "BATTERY_INSTALLED": false
   }
